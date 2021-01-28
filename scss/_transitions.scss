@@ -1,0 +1,36 @@
+.fade-y.delighter {
+    transition: all .6s ease-out;
+    transform: translateY(3%);
+    opacity: 0;
+}
+.fade-y.delighter.started {
+    transform: none;
+    opacity: 1;
+}
+.fade-y.delighter.started.ended {
+
+}
+.fade-x.delighter {
+  transition: all .6s ease-out;
+  transform: translateX(3%);
+  opacity: 0;
+}
+.fade-x.delighter.started {
+  transform: none;
+  opacity: 1;
+}
+.fade-x.delighter.started.ended {
+
+}
+.fade-xl.delighter {
+transition: all .6s ease-out;
+transform: translateX(-3%);
+opacity: 0;
+}
+.fade-xl.delighter.started {
+transform: none;
+opacity: 1;
+}
+.fade-xl.delighter.started.ended {
+
+}

@@ -1,0 +1,635 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap");
+.fade-y.delighter {
+  transition: all 0.6s ease-out;
+  transform: translateY(3%);
+  opacity: 0;
+}
+
+.fade-y.delighter.started {
+  transform: none;
+  opacity: 1;
+}
+
+.fade-x.delighter {
+  transition: all 0.6s ease-out;
+  transform: translateX(3%);
+  opacity: 0;
+}
+
+.fade-x.delighter.started {
+  transform: none;
+  opacity: 1;
+}
+
+.fade-xl.delighter {
+  transition: all 0.6s ease-out;
+  transform: translateX(-3%);
+  opacity: 0;
+}
+
+.fade-xl.delighter.started {
+  transform: none;
+  opacity: 1;
+}
+
+/*
+Theme Name: Arid
+Description: Theme based on flatsome developed by Mediakonsten i Sverige AB
+Author: Mediakonsten i Sverige AB
+Template: flatsome
+Version: 3.0
+*/
+body {
+  background-color: transparent;
+  font-family: "Titillium Web", sans-serif !important;
+}
+
+.home #wrapper, #main {
+  background-color: Transparent;
+}
+
+#content {
+  background-color: White;
+}
+
+* {
+  font-family: "Titillium Web", sans-serif !important;
+}
+
+.hero-image {
+  background: url("./img/hero-ELECTRO-DRAIN_offices+machines.jpg") no-repeat center center fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  top: 0;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  position: fixed;
+}
+.hero-image .hero-text {
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.hero-image .hero-text h1 {
+  color: white;
+  font-size: calc(34px + (46 - 10) * ((100vw - 900px) / (1100 - 300)));
+  font-weight: bold;
+}
+.hero-image .txt-rotate > .wrap {
+  border: 0;
+}
+.hero-image video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.hero-image .text-animation {
+  display: none;
+}
+
+.hero-text-container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+.hero-text-container .hero-title {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  top: 0;
+  line-height: 55px;
+  z-index: -1;
+  max-width: 900px;
+  margin-top: -32vh;
+  margin-left: 0;
+}
+.hero-text-container .hero-title div {
+  color: white;
+  padding-bottom: 0;
+}
+.hero-text-container .hero-title .container {
+  width: 50%;
+  margin: 0 auto;
+}
+.hero-text-container .hero-title button {
+  color: white;
+  margin-bottom: 0px;
+}
+.hero-text-container .hero-title .button-1 {
+  border: 3px solid white;
+  height: 50px;
+  width: 200px;
+  margin-bottom: 0;
+}
+.hero-text-container h3 {
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+}
+.hero-text-container h1 {
+  font-size: 3.5em;
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+  font-weight: 300;
+  color: white;
+}
+
+.header-column {
+  padding: 0px;
+}
+
+header .header-main {
+  height: 80px;
+}
+
+header .header-wrapper:not(.stuck) .header-main .header-nav {
+  margin-top: 0;
+}
+
+.scroller {
+  width: 12px;
+  border-radius: 8px;
+  background-color: #fff;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  bottom: 34px;
+  animation: scroller 1500ms ease-out infinite;
+}
+
+.scroll-container {
+  width: 30px;
+  height: 60px;
+  border: 3px solid #fff;
+  border-radius: 15px;
+  position: relative;
+}
+
+@keyframes scroller {
+  0% {
+    bottom: 34px;
+  }
+  5% {
+    top: 4px;
+  }
+  32% {
+    bottom: 4px;
+  }
+  66% {
+    top: 34px;
+    bottom: 4px;
+  }
+  100% {
+    top: 4px;
+    bottom: 34px;
+  }
+}
+.arrow-scroll {
+  color: white;
+  width: 22px;
+  margin: 0 auto;
+  display: block;
+  position: absolute;
+  font-size: 5em;
+  left: 0;
+  bottom: -50px;
+  right: 0;
+  height: 50px;
+  border-radius: 17px;
+  border: 1px solid white;
+  border: separate;
+  margin-bottom: 200px;
+}
+
+#top-bar {
+  display: none;
+}
+
+#wp-admin-bar-flatsome_panel, #wp-admin-bar-flatsome-activate {
+  display: none !important;
+  visibility: none !important;
+}
+
+.first-section-wrapper {
+  margin-top: -80px;
+  background-color: white;
+  z-index: 10;
+}
+
+.first-section .studier h1 {
+  margin-bottom: 0;
+}
+.first-section h1 {
+  text-align: center;
+  margin-bottom: 1em;
+}
+.first-section .first-section-text {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.first-section .first-section-text h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+.first-section .first-section-text h3 {
+  font-weight: 200;
+}
+.first-section .intro-emblems {
+  margin: 0 auto;
+  display: block;
+  max-width: 200px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+.first-section p {
+  width: 75%;
+  margin: 0 auto;
+  text-align: Center;
+  color: black;
+  font-weight: 400;
+  padding-top: 5px;
+}
+
+.emblem-container {
+  margin-top: 50px;
+}
+.emblem-container .emblem-btn {
+  background-color: #946AED;
+  color: white;
+  margin: 0 auto;
+  margin-top: 15px;
+  display: block;
+}
+
+.how-it-works img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.header-col-mobile {
+  padding: 0px;
+}
+
+.gs_logo_single img {
+  height: 125px;
+}
+
+.illustration-part {
+  padding: 0px;
+  margin-top: -30px;
+}
+
+.kundgaranti .col-inner {
+  top: -90px;
+}
+
+.kalkylator .col-inner {
+  top: -300px;
+  border: 8px solid rgba(255, 255, 255, 0.68);
+}
+
+.special-banners {
+  margin-bottom: -250px;
+}
+
+.faq-form .col-inner {
+  border: 1px solid #dddddd;
+  padding: 20px;
+}
+
+.three-part {
+  margin-top: 50px;
+}
+.three-part h3 {
+  margin-bottom: 0;
+  color: #222;
+}
+
+.copyright-footer {
+  justify-content: space-between;
+}
+
+.footer-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-info p {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.footer-img {
+  max-width: 300px;
+}
+
+.footer-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-logo-container .footer-loggo {
+  width: 40px;
+}
+
+#footer {
+  padding-top: 15px;
+  background-color: #1F1F1F;
+}
+#footer h1 {
+  color: White;
+  text-align: center;
+  margin: 0.2em 0;
+}
+#footer ul li {
+  list-style-type: none;
+}
+#footer ul li:nth-child(1) {
+  color: purple;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 0.4em;
+}
+#footer p {
+  color: white;
+  text-align: center;
+  font-size: 1.1em;
+}
+#footer .footer-img {
+  border-radius: 20px;
+  width: 50%;
+}
+
+.absolute-footer {
+  background-color: #161616;
+}
+
+h1 {
+  font-size: 38px;
+  font-weight: bold;
+  color: #404040;
+}
+
+ul.nav.top-bar-nav.nav-right.nav-small.nav-divided li, ul.nav.top-bar-nav.nav-right.nav-small.nav-divided a {
+  font-size: 16px;
+  color: #383838;
+}
+
+.border-class img {
+  border: 8px solid #ececec;
+}
+
+#content ul {
+  padding-left: 20px;
+}
+
+#secondary {
+  margin-top: 20px;
+}
+
+.page-id-18 h5.post-title.is-larger {
+  color: #ff6600;
+}
+
+.page-id-18 .post-item .col-inner {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.single-post .byline {
+  display: none;
+}
+
+.single-post .entry-meta {
+  display: none;
+}
+
+h5.author-name.uppercase.pt-half {
+  display: none;
+}
+
+.garanticol .col-inner {
+  background-color: #f7f7f7;
+  padding: 20px !important;
+}
+
+b, strong {
+  color: #4e4e4e;
+}
+
+ul.menu > li + li, .widget > ul > li + li {
+  border-top: 0px;
+}
+
+#secondary.widget-area h3 span {
+  color: #ff6600;
+}
+
+#secondary.widget-area .menu-item a {
+  background-color: #656565;
+  width: 100%;
+  color: white;
+  font-weight: 700;
+  margin-top: 3px;
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 5px 15px;
+}
+
+#secondary.widget-area .menu-item a:hover {
+  background-color: #ff6600;
+}
+
+.logo-area {
+  background-color: #F8F8F8;
+  padding-bottom: 50px;
+}
+.logo-area h1 {
+  padding-top: 50px;
+}
+
+.category-images {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+}
+.category-images img {
+  max-height: 500px;
+}
+.category-images img:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+.grey-text {
+  background-color: #9A9391;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.grey-text h3 {
+  text-align: center;
+  margin-bottom: 0;
+  font-size: 2em;
+  color: white;
+}
+.grey-text p {
+  font-size: 22px;
+  color: white;
+}
+.grey-text .questions-btn {
+  background-color: #EC9C53;
+  margin: 0 auto;
+  display: block;
+  margin-top: 50px;
+  color: white;
+  padding: 5px 30px;
+}
+
+.studier h1 {
+  text-align: center;
+  padding: 50px 0px;
+}
+.studier .studier-grey-area {
+  background-color: #F0F0F0;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+.studier .studier-grey-area .studier-grey-area-wrapper {
+  max-width: 1200px;
+  display: flex;
+  text-align: center;
+  margin: 0 auto;
+}
+.studier .studier-grey-area .studier-grey-area-wrapper .left-area {
+  width: 50%;
+  height: 100%;
+}
+.studier .studier-grey-area .studier-grey-area-wrapper .right-area {
+  width: 50%;
+  height: 100%;
+}
+.studier .studier-grey-area .studier-grey-area-wrapper .studier-btn {
+  background-color: #946AED;
+  color: white;
+}
+.studier .studier-grey-area .studier-grey-area-wrapper .studier-container {
+  width: 90%;
+  margin: 0 auto;
+}
+.studier .studier-grey-area .studier-grey-area-wrapper .studier-container h3 {
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 48em) {
+  /*************** ADD MOBILE ONLY CSS HERE  ***************/
+}
+/*==========  Non-Mobile First Method  ==========*/
+/* Large Devices, Wide Screens */
+/* Medium Devices, Desktops */
+@media (max-width: 850px) {
+  .nav-divided > li {
+    margin: 0 0.9em;
+  }
+
+  .studier .studier-grey-area .studier-grey-area-wrapper {
+    display: block;
+  }
+  .studier .studier-grey-area .studier-grey-area-wrapper .left-area {
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+  }
+  .studier .studier-grey-area .studier-grey-area-wrapper .right-area {
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+    padding-top: 25px;
+  }
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  .footer-img {
+    width: 100px;
+    margin-top: 5px;
+  }
+
+  .first-section .intro-emblems {
+    max-width: 150px !important;
+  }
+
+  .first-section p {
+    width: 90%;
+  }
+
+  .category-images {
+    display: block;
+  }
+
+  .first-section {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .hero-text-container h1 {
+    width: 90%;
+    text-align: center;
+  }
+  .hero-text-container h3 {
+    text-align: center;
+  }
+  .hero-text-container .hero-title .button-1 {
+    font-size: 13px;
+  }
+  .hero-text-container .hero-title .container {
+    width: 90%;
+  }
+
+  h1 {
+    line-height: 1em;
+    font-size: 30px;
+  }
+
+  #image_589548422 {
+    width: 100%;
+  }
+
+  .special-banners {
+    margin-bottom: 0px;
+  }
+
+  .kalkylator .col-inner {
+    top: -50px;
+  }
+
+  .kundgaranti .col-inner {
+    top: -50px;
+  }
+
+  .garanticol .img {
+    text-align: center !important;
+    max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+/* Extra Small Devices, Phones */
+/* Custom, iPhone Retina */
+/*------------------------------------*\
+    RESPONSIVE
+\*------------------------------------*/
+
+/*# sourceMappingURL=style.css.map */
