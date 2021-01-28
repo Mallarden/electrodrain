@@ -124,14 +124,17 @@ Att ha fuktproblem i sitt hem är ett orosmoln som kan försvåra ett effektivt 
               <div class="studier-container">
                 <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ChalmersU_black.png" />
                 <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</h3>
-                <button class="studier-btn" type="button">Läs mer</button>
+                <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Chalmersrapport-Electro-Drain-Mars-20.pdf">
+                  <button class="studier-btn" type="button">Läs mer</button>
+                </a>
               </div>
           </div>
           <div class="right-area">
               <div class="studier-container">
                 <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/byggforsk-logga1.png" />
                 <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</h3>
-                <button class="studier-btn" type="button">Läs mer</button>
+                <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/byggforskrapport_Electro-Drain.pdf">
+                  <button class="studier-btn" type="button">Läs mer</button>
               </div>
           </div>
         </div>

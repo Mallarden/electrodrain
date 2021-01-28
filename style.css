@@ -309,6 +309,10 @@ button:hover {
   height: 125px;
 }
 
+.gs_logo_title {
+  display: none;
+}
+
 .illustration-part {
   padding: 0px;
   margin-top: -30px;
