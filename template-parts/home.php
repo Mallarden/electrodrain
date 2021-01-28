@@ -97,11 +97,15 @@ get_header(); ?>
       </div>
       <div class="category-images">
         <div class="left-image">
+          <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Kommersiell_broschyr_2021.pdf" target="_blank">
           <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/villaagare.jpg" />
+          </a>
         </div>
+        <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Villa_ElectroDrain_Arid.pdf" target="_blank">
         <div class="right-image">
           <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/fastighetsbestond.jpg" />
         </div>
+        </a>
       </div>
       <div class="grey-text">
         <h3>Fuktproblem är både begränsande och en hälsofara</h3>
