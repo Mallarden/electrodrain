@@ -15,9 +15,6 @@ global $flatsome_opt;
   <div class="container">
     <div class="">
       <h1>Kontakta oss</h1>
-      <p>Kontakta oss för en kostnadsfri konsultation kring dina fuktproblem 
-        och mer information om hur du dränerar utan att gräva.
-      </p>
     </div>
     <?php echo do_shortcode("[contact-form-7 id='8' title='Kontaktformulär']"); ?>
   <div class="row" style="text-align:center;">
@@ -25,17 +22,17 @@ global $flatsome_opt;
       <ul>
         <li>Adress</li>
         <li>Electro Drain</li>
-        <li>Gata</li>
-        <li>Stad</li>
-        <li>Land </li>
+        <li>Frölunda Smedjegatan 4</li>
+        <li>Göteborg</li>
+        <li>Sverige</li>
       </ul>
     </div>
     <div class="col small-6 large-3">
     <ul>
         <li>Kontaktinformation</li>
-        <li>Telefonnummer</li>
-        <li>Email</li>
-        <li>Info</li>
+        <li>info@electrodrain.se</li>
+        <li>Jonas: 070-6304030</li>
+        <li>Ulf: 070-5251110</li>
       </ul>
     </div>
     <div class="col small-6 large-3">
@@ -44,8 +41,6 @@ global $flatsome_opt;
     <div class="col small-6 large-3">
       <img class="footer-img" style="background-color:white;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/tuv-loggo.png" />
     </div>
-
-
   </div>
   </div>
 </footer><!-- .footer-wrapper -->

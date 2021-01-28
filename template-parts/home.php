@@ -18,14 +18,14 @@ get_header(); ?>
   <div class="hero-text-container">
     <div class="hero-title">
     <h1>Electro Drain är det nya sätter att dränera i framtiden.  </h1>
-            <h3 class="text-center" style="color:white; font-weight:bold;">-- Ett självklart val.</h3>
+            <h3 class="text-center">━ Ett självklart val.</h3>
             <div class="container pt-3">
               <div class="row">
               <div class="col small-6">
                 <button class="button-1">Se oss på TV4</button>
               </div>
               <div class="col small-6">
-                <button class="button-2">Vår Teknik</button>
+                <button type="button" onclick="location.href='https://www.electrodrain.se/var-teknik/'" class="button-2">Vår Teknik</button>
               </div>
               </div>
             </div>
@@ -53,14 +53,14 @@ get_header(); ?>
       </div>
       <div class="container emblem-container">
         <div class="row">
-          <div class="col small-6">
-          <img class="intro-emblems" style="max-width:175px;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/10years-garanti.png" />
+          <div class="col small-12 large-6">
+          <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/10years-garanti.png" />
           <p>Vi har stresstestet system för 30 år
             ock lämnar därför en 10 års garanti på 
             all teknik & åtgärder.</p>
             <button class="emblem-btn" type="button">Läs mer</button>
           </div>
-          <div class="col small-6">
+          <div class="col small-12 large-6">
           <img class="intro-emblems" style="background-color:white;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/90dagar-garanti.png" />  
           <p>Vi lämnar en 90 dagars garanti 
             på att fukten minskat med minst 30% 
