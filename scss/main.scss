@@ -17,12 +17,14 @@ body {
   font-family: 'Titillium Web', sans-serif !important;
 }
 .home #wrapper, #main {
-  background-color:white;
+  background-color:transparent;
 }
 #content {
   background-color:White;
 }
-
+.absolute-footer, html {
+  background-color:white;
+}
 * {
   font-family: 'Titillium Web', sans-serif !important;
 
