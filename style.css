@@ -387,6 +387,7 @@ button:hover {
   padding-bottom: 10px;
 }
 #footer ul li {
+  color: white;
   list-style-type: none;
 }
 #footer ul li:nth-child(1) {
@@ -437,7 +438,7 @@ ul.nav.top-bar-nav.nav-right.nav-small.nav-divided li, ul.nav.top-bar-nav.nav-ri
 }
 
 .page-wrapper {
-  padding-top: 0px;
+  padding-top: 30px;
 }
 
 .page-id-18 .post-item .col-inner {

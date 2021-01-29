@@ -98,14 +98,14 @@ get_header(); ?>
       <div class="category-images">
         <div class="left-image">
           <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Kommersiell_broschyr_2021.pdf" target="_blank">
-          <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/villaagare.jpg" />
+          <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/brand_FACKMAN.jpg" />
           </a>
         </div>
         <div class="right-image">
         <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Villa_ElectroDrain_Arid.pdf" target="_blank">
 
           
-      <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/fastighetsbestond.jpg" />
+      <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/vit-parkering.jpg" />
       </a>  
     </div>
       
