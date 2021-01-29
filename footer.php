@@ -36,7 +36,7 @@ global $flatsome_opt;
       </ul>
     </div>
     <div class="col small-6 large-3">
-      <img class="footer-img" src="<?php echo get_stylesheet_directory_uri(); ?>/img/10years-garanti.png" />
+      <img class="footer-img" src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo_CE MARK_white.png" />
     </div>
     <div class="col small-6 large-3">
       <a href="https://www.tuv.com/sweden/en/about-us/t%C3%BCv-rheinland-sweden/" target="_blank">
