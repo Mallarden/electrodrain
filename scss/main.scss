@@ -420,7 +420,7 @@ ul.nav.top-bar-nav.nav-right.nav-small.nav-divided li, ul.nav.top-bar-nav.nav-ri
     color: #ff6600;
 }
 .page-wrapper {
-  padding-top:30px;
+  padding-top:0px;
 }
 
 .page-id-18 .post-item .col-inner {
@@ -513,6 +513,7 @@ background-color: #ff6600;
   height:300px;
   width:100vw;
   background-size:cover;
+  background-position: center;
 }
 .gs_logo_area {
   max-width: 75%;
@@ -614,6 +615,9 @@ background-color: #ff6600;
         height:150px;
         width:100vw;
         background-size:cover;
+      }
+      #secondary {
+        display:none;
       }
     }
 

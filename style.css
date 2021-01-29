@@ -449,7 +449,7 @@ ul.nav.top-bar-nav.nav-right.nav-small.nav-divided li, ul.nav.top-bar-nav.nav-ri
 }
 
 .page-wrapper {
-  padding-top: 30px;
+  padding-top: 0px;
 }
 
 .page-id-18 .post-item .col-inner {
@@ -527,6 +527,7 @@ ul.menu > li + li, .widget > ul > li + li {
   height: 300px;
   width: 100vw;
   background-size: cover;
+  background-position: center;
 }
 
 .gs_logo_area {
@@ -621,6 +622,10 @@ ul.menu > li + li, .widget > ul > li + li {
     height: 150px;
     width: 100vw;
     background-size: cover;
+  }
+
+  #secondary {
+    display: none;
   }
 }
 @media (max-width: 850px) {
