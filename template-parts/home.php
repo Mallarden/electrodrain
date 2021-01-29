@@ -101,11 +101,14 @@ get_header(); ?>
           <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/villaagare.jpg" />
           </a>
         </div>
-        <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Villa_ElectroDrain_Arid.pdf" target="_blank">
         <div class="right-image">
-          <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/fastighetsbestond.jpg" />
-        </div>
-        </a>
+        <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Villa_ElectroDrain_Arid.pdf" target="_blank">
+
+          
+      <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/fastighetsbestond.jpg" />
+      </a>  
+    </div>
+      
       </div>
       <div class="grey-text">
         <h3>Fuktproblem är både begränsande och en hälsofara</h3>
@@ -135,6 +138,7 @@ Att ha fuktproblem i sitt hem är ett orosmoln som kan försvåra ett effektivt 
                 <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</h3>
                 <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/byggforskrapport_Electro-Drain.pdf" target="_blank">
                   <button class="studier-btn" type="button">Läs mer</button>
+                </a>
               </div>
           </div>
         </div>
