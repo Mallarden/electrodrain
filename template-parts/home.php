@@ -45,8 +45,10 @@ get_header(); ?>
         <div class="container">
           <div class="col-sm-12 col-lg-12 fade-y" data-delighter="start:0.90;">
             <div class="first-section-text">
-              <h1>Nya generationens dränering – dränera utan att gräva </h1>
-              <h3>Det är budbäraren av ny dränering in i 2000-talet med ett greppbart och fräscht uttryck för både privata & kommunala kunder.</h3>
+              <h1>Säker dränering - med etablerad teknik </h1>
+              <h3>Electro Drains lösning för torrläggning av fastighetskällare
+                  baseras på en avancerad elektropuls teknik som laddar
+                  fukten i fundamenten och trycker ut den ur byggnationen..</h3>
             </div>
           </div>
         </div>
