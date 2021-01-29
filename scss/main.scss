@@ -596,7 +596,11 @@ background-color: #ff6600;
 
     /* Medium Devices, Desktops */
     @media only screen and (max-width : 992px) {
-
+      .page_banner {
+        height:150px;
+        width:100vw;
+        background-size:cover;
+      }
     }
 
     @media (max-width: 850px) {
