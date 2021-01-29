@@ -105,6 +105,7 @@ body {
   margin: 0 auto;
   position: relative;
   z-index: 1;
+  width: 75%;
 }
 .hero-text-container .hero-title {
   width: 100%;
@@ -239,12 +240,16 @@ header .header-wrapper:not(.stuck) .header-main .header-nav {
   z-index: 10;
 }
 
+.three-part h1 {
+  font-size: 30px;
+}
+
 .first-section .studier h1 {
   margin-bottom: 0;
 }
 .first-section h1 {
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 .first-section .first-section-text {
   text-align: center;
@@ -431,6 +436,10 @@ ul.nav.top-bar-nav.nav-right.nav-small.nav-divided li, ul.nav.top-bar-nav.nav-ri
   color: #ff6600;
 }
 
+.page-wrapper {
+  padding-top: 0px;
+}
+
 .page-id-18 .post-item .col-inner {
   background-color: #f7f7f7;
   padding: 20px;
@@ -484,6 +493,7 @@ ul.menu > li + li, .widget > ul > li + li {
 .logo-area {
   background-color: #F8F8F8;
   padding-bottom: 50px;
+  margin-top: 50px;
 }
 .logo-area h1 {
   padding-top: 50px;
@@ -501,6 +511,17 @@ ul.menu > li + li, .widget > ul > li + li {
   opacity: 0.9;
   cursor: pointer;
 }
+.page_banner {
+  height: 300px;
+  width: 100vw;
+  background-size: cover;
+}
+
+.gs_logo_area {
+  max-width: 75%;
+  margin: 0 auto;
+}
+
 .grey-text {
   background-color: #9A9391;
   padding-top: 50px;
@@ -515,6 +536,8 @@ ul.menu > li + li, .widget > ul > li + li {
 .grey-text p {
   font-size: 22px;
   color: white;
+  max-width: 60%;
+  margin: 0 auto;
 }
 .grey-text .questions-btn {
   background-color: #EC9C53;
@@ -571,6 +594,11 @@ ul.menu > li + li, .widget > ul > li + li {
 }
 /*==========  Non-Mobile First Method  ==========*/
 /* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+  .hero-text-container {
+    width: 100%;
+  }
+}
 /* Medium Devices, Desktops */
 @media (max-width: 850px) {
   .nav-divided > li {
