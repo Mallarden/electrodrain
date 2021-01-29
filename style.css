@@ -300,6 +300,9 @@ button:hover {
   border-radius: 4px;
 }
 
+.how-it-works {
+  margin-top: 50px;
+}
 .how-it-works img {
   display: block;
   margin: 0 auto;
