@@ -16,6 +16,8 @@ global $flatsome_opt;
     <div class="">
       <h1>Kontakta oss</h1>
     </div>
+    <p style="margin-bottom:20px;">Kontakta oss för en kostnadsfri konsultation kring dina fuktproblem </br> och mer information om hur du dränerar utan att gräva.
+</p>
     <?php echo do_shortcode("[contact-form-7 id='8' title='Kontaktformulär']"); ?>
   <div class="row" style="text-align:center;">
     <div class="col small-6 large-3">
@@ -36,7 +38,7 @@ global $flatsome_opt;
       </ul>
     </div>
     <div class="col small-6 large-3">
-      <img class="footer-img" src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo_CE MARK_white.png" />
+      <img class="footer-img" src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo_CE-MARK_white.png" />
     </div>
     <div class="col small-6 large-3">
       <a href="https://www.tuv.com/sweden/en/about-us/t%C3%BCv-rheinland-sweden/" target="_blank">

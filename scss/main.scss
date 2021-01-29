@@ -352,7 +352,9 @@ button {
     width:40px;
   }
 }
-
+div.wpcf7 {
+  padding-bottom:50px;
+}
 #footer {
   padding-top:15px;
   background-color:#1F1F1F;
@@ -527,7 +529,7 @@ background-color: #ff6600;
   p {
     font-size:22px;
     color:white;
-    max-width: 60%;
+    max-width: 50%;
     margin: 0 auto;
   }
   background-color:#9A9391;
@@ -599,6 +601,11 @@ background-color: #ff6600;
       .hero-text-container {
         width:100%;
       }
+      .grey-text {
+        p {
+          max-width:85%;
+        }
+      }
     }
 
     /* Medium Devices, Desktops */
@@ -632,6 +639,7 @@ background-color: #ff6600;
 
     /* Small Devices, Tablets */
     @media only screen and (max-width : 768px) {
+      
       .gs_logo_area {
         width: 90%;
         margin: 0 auto;

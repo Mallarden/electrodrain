@@ -383,6 +383,10 @@ button:hover {
   width: 40px;
 }
 
+div.wpcf7 {
+  padding-bottom: 50px;
+}
+
 #footer {
   padding-top: 15px;
   background-color: #1F1F1F;
@@ -544,7 +548,7 @@ ul.menu > li + li, .widget > ul > li + li {
 .grey-text p {
   font-size: 22px;
   color: white;
-  max-width: 60%;
+  max-width: 50%;
   margin: 0 auto;
 }
 .grey-text .questions-btn {
@@ -605,6 +609,10 @@ ul.menu > li + li, .widget > ul > li + li {
 @media only screen and (max-width: 1200px) {
   .hero-text-container {
     width: 100%;
+  }
+
+  .grey-text p {
+    max-width: 85%;
   }
 }
 /* Medium Devices, Desktops */

@@ -117,11 +117,9 @@ get_header(); ?>
       
       </div>
       <div class="grey-text">
-        <h3>Fuktproblem är både begränsande och en hälsofara</h3>
+        <h3>Så funkar vår teknik</h3>
         <p>
-Att ha fuktproblem i sitt hem är ett orosmoln som kan försvåra ett effektivt utnyttjande av bo- och biytor. Dessutom drar fuktproblem ner värdet på ditt hus, något som du upptäcker när spekulanterna gör sin besiktning.
-
-Ännu värre är att fuktproblem i hemmet kan innebära stora hälsorisker. Det finns idag flertalet undersökningar som visar att allergier, luftvägsinfektioner och kronisk trötthet, särskilt hos barn, är väsentligt vanligare hos människor som vistas i byggnader med fuktproblem och mögel.
+        Electro Drains lösning för torrläggning av källare baserar sig på elektroosmos som är en väl beprövad metod för att driva ut fukt ur betong. Eftersom tekniken verkar i själva betongen är den speciellt effektiv för att motverka vattenintrång orsakad av uppstigande, kapillär, markfukt. Att det är en effektiv metod är omvittnat i tester och forskningsrapporter samt, inte minst, i alla de över 3.000 installationer som är gjorda bara i Sverige. Varje installation sker på ett fackmannamässigt sätt med garanterat resultat inom 90 dagar och 10 års funktionsgaranti.
         </p>
         <button class="questions-btn" type="button">Vanliga frågor och svar</button>
       </div>
@@ -132,8 +130,7 @@ Att ha fuktproblem i sitt hem är ett orosmoln som kan försvåra ett effektivt 
           <div class="left-area">
               <div class="studier-container">
                 <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ChalmersU_black.png" />
-                <h3>Stephan Mangold på Chalmers Industriteknik har gjort en
-omfattade utvärdering och rapport kring våran dräneringsteknik.</h3>
+                <h3>Stephan Mangold på Chalmers Industriteknik har gjort en utvärdering och rapport kring våran uttorkningsteknik.</h3>
                 <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Chalmersrapport-Electro-Drain-Mars-20.pdf" target="_blank">
                   <button class="studier-btn" type="button">Läs mer</button>
                 </a>
@@ -142,7 +139,8 @@ omfattade utvärdering och rapport kring våran dräneringsteknik.</h3>
           <div class="right-area">
               <div class="studier-container">
                 <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/byggforsk-logga1.png" />
-                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</h3>
+                <h3>Norska Byggforsk har arbetat fram omfattande studie kring
+kopplingen emellan fuktbekämpning och elektrosmos tekniken.</h3>
                 <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/byggforskrapport_Electro-Drain.pdf" target="_blank">
                   <button class="studier-btn" type="button">Läs mer</button>
                 </a>
