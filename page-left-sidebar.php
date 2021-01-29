@@ -9,7 +9,7 @@ get_header(); ?>
 <div  class="page-wrapper page-left-sidebar">
 <div class="page_banner" style="background-image:url('<?php the_field('page_banner'); ?>;')"></div>
 
-<div class="row" style="margin-top:25px;">
+<div class="row content-row">
 
 <div id="content" class="large-9 right col" role="main">
 	<div class="page-inner">

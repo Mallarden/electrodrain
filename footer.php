@@ -16,7 +16,7 @@ global $flatsome_opt;
     <div class="">
       <h1>Kontakta oss</h1>
     </div>
-    <p style="margin-bottom:20px;">Kontakta oss för en kostnadsfri konsultation kring dina fuktproblem </br> och mer information om hur du dränerar utan att gräva.
+    <p class="footer-first-text">Kontakta oss för en kostnadsfri konsultation kring dina fuktproblem och mer information om hur du dränerar utan att gräva.
 </p>
     <?php echo do_shortcode("[contact-form-7 id='8' title='Kontaktformulär']"); ?>
   <div class="row" style="text-align:center; margin-top:50px;">
