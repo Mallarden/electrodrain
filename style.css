@@ -398,7 +398,7 @@ button:hover {
   list-style-type: none;
 }
 #footer ul li:nth-child(1) {
-  color: purple;
+  color: #946AED;
   font-weight: bold;
   font-size: 1.1em;
   margin-bottom: 0.4em;

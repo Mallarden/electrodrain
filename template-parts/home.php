@@ -58,14 +58,18 @@ get_header(); ?>
           <p>Vi har stresstestet system för 30 år
             ock lämnar därför en 10 års garanti på 
             all teknik & åtgärder.</p>
+            <a href="https://www.electrodrain.se/trygghet/">
             <button class="emblem-btn" type="button">Läs mer</button>
+            </a>
           </div>
           <div class="col small-12 large-6">
           <img class="intro-emblems" style="background-color:white;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/90dagar-garanti.png" />  
           <p>Vi lämnar en 90 dagars garanti 
             på att fukten minskat med minst 30% 
             Annars har ni rätt att få pengarna tillbaka.</p>
+            <a href="https://www.electrodrain.se/trygghet/">
             <button class="emblem-btn" type="button">Läs mer</button>
+            </a>
           </div>
         </div>
         </div>
