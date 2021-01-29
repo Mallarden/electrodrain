@@ -277,6 +277,9 @@ button {
     border-radius: 4px;
   }
 }
+.nav>li {
+  margin:0 15px;
+}
 .how-it-works {
   margin-top:75px;
   img {
@@ -291,7 +294,7 @@ button {
 }
 
 .gs_logo_single img {
-  height:125px;
+  height:100px;
 }
 .gs_logo_title {
   display:none;

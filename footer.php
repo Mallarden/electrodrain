@@ -39,7 +39,9 @@ global $flatsome_opt;
       <img class="footer-img" src="<?php echo get_stylesheet_directory_uri(); ?>/img/10years-garanti.png" />
     </div>
     <div class="col small-6 large-3">
+      <a href="https://www.tuv.com/sweden/en/about-us/t%C3%BCv-rheinland-sweden/" target="_blank">
       <img class="footer-img" style="background-color:white;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/tuv-loggo.png" />
+      </a> 
     </div>
   </div>
   </div>
