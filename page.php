@@ -17,8 +17,9 @@ if(flatsome_option('pages_layout') != 'default') {
 get_header();
 do_action( 'flatsome_before_page' ); ?>
 <div id="content" class="content-area page-wrapper" role="main">
-	<div class="row row-main">
+<div class="page_banner" style="background-image:url('<?php the_field('page_banner'); ?>;')"></div>
 
+	<div class="row row-main">
 		<div class="large-12 col">
 			<div class="col-inner">
 			
