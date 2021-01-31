@@ -79,11 +79,11 @@ global $flatsome_opt;
           <!-- <?php echo do_shortcode( get_theme_mod( 'footer_left_text', 'Copyright [ux_current_year]' ) ); ?> -->
           <p>@ 2021 Electro Drain</p>
         </div>
-        <div class="footer-logo-container">
+        <!-- <div class="footer-logo-container">
         <img class="footer-loggo" src="<?php echo get_stylesheet_directory_uri(); ?>/img/fb-white.png" />
         <img class="footer-loggo" src="<?php echo get_stylesheet_directory_uri(); ?>/img/fb-white.png" />
         <img class="footer-loggo" src="<?php echo get_stylesheet_directory_uri(); ?>/img/fb-white.png" />
-        </div>
+        </div> -->
       </div>
       <?php do_action( 'flatsome_absolute_footer_primary' ); ?>
     </div><!-- .left -->

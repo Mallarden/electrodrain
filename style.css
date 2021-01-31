@@ -318,7 +318,7 @@ button:hover {
 }
 
 .gs_logo_single img {
-  height: 100px;
+  height: 75px;
 }
 
 .gs_logo_title {
@@ -654,6 +654,11 @@ ul.menu > li + li, .widget > ul > li + li {
 }
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
+  .how-it-works h1 {
+    font-size: 25px;
+    padding-bottom: 15px;
+  }
+
   .content-row {
     margin-top: 0px;
   }
@@ -663,7 +668,7 @@ ul.menu > li + li, .widget > ul > li + li {
     margin: 0 auto;
   }
 
-  .footer-first-text {
+  #footer .footer-first-text {
     max-width: 75%;
   }
 
