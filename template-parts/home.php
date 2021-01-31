@@ -6,13 +6,6 @@ get_header(); ?>
 <div id="primary" class="content">
 <div class="hero-image">  
     <div class="hero-text d-flex">
-      <h1>
-  <span
-     class="txt-rotate"
-     data-period="99999999"
-     data-rotate='[ "TULLIFY - We simplify customs." ]'>
-    </span>
-</h1>
     </div>
   </div>
   <div class="hero-text-container">
@@ -22,7 +15,9 @@ get_header(); ?>
             <div class="container pt-3">
               <div class="row">
               <div class="col small-6">
-                <button class="button-1">Se oss på TV4</button>
+              <button class="button-1"><?php echo do_shortcode('[video_lightbox_youtube video_id="yGKKuLrlkjA" width="640" height="480" anchor="Se oss på TV4"]');?></button>
+                 
+
               </div>
               <div class="col small-6">
                 <button type="button" onclick="location.href='https://www.electrodrain.se/var-teknik/'" class="button-2">Vår Teknik</button>
