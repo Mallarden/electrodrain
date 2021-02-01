@@ -296,7 +296,6 @@ header .header-wrapper:not(.stuck) .header-main .header-nav {
   color: black;
   font-weight: 400;
   padding-top: 5px;
-  height: 75px;
 }
 
 button:hover {
