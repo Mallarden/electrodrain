@@ -10,7 +10,7 @@ get_header(); ?>
   </div>
   <div class="hero-text-container">
     <div class="hero-title">
-    <h1>ELECTRO DRAIN ÄR DET MODERNA OCH TRYGGA SÄTTET ATT DRÄNERA</h1>
+    <h1>Electro Drain är det moderna och trygga sättet att dränera</h1>
             <h3 class="text-center">━ Ett självklart val.</h3>
             <div class="container pt-3">
               <div class="row">
@@ -51,7 +51,7 @@ get_header(); ?>
       <div class="container emblem-container">
         <div class="row">
           <div class="col small-12 large-6">
-          <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/10years-garanti.png" />
+          <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/produktgaranti.png" />
           <p>Vi har stresstestet system för 30 år
             ock lämnar därför en 10 års garanti på 
             all teknik & åtgärder.</p>
@@ -71,7 +71,7 @@ get_header(); ?>
         </div>
         </div>
         <div class="how-it-works" style="max-width: 1900px; margin:-15px auto;">
-        <h1>Hur fungerar det?</h1>
+        <h1 style="margin-top:30px;">Hur fungerar det?</h1>
         <!-- <img class="" style="background-color:white; max-width: 1900px;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/asset_3D-house_v4.jpg" />   -->
         <?php echo do_shortcode('[video id=3129]'); ?>
       </div>
@@ -85,7 +85,7 @@ get_header(); ?>
         </div>
         <div class="col large-4">
           <h3>2. Enkelt, tryggt och snabbt</h3>
-          <p>Normaalt tar det (1) arbetsdag att installera Electro Drains system, sedan är det bara att vänta.</p>
+          <p>Normalt tar det (1) arbetsdag att installera Electro Drains system, sedan är det bara att vänta.</p>
         </div>
         <div class="col large-4">
           <h3>3. Stoppar fukten under huset</h3>

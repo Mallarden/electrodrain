@@ -296,6 +296,7 @@ header .header-wrapper:not(.stuck) .header-main .header-nav {
   color: black;
   font-weight: 400;
   padding-top: 5px;
+  height: 75px;
 }
 
 button:hover {
@@ -562,7 +563,7 @@ ul.menu > li + li, .widget > ul > li + li {
 }
 
 .grey-text {
-  background-color: #9A9391;
+  background-color: #222222;
   padding-top: 50px;
   padding-bottom: 50px;
 }

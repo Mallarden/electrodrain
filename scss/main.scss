@@ -273,6 +273,7 @@ header .header-wrapper:not(.stuck) .header-main .header-nav {
     color:black;
     font-weight:$regular;
     padding-top:5px;
+    height: 75px;
   }
 }
 button {
@@ -557,7 +558,7 @@ background-color: #ff6600;
     max-width: 50%;
     margin: 0 auto;
   }
-  background-color:#9A9391;
+  background-color:#222222;
   padding-top:50px;
   padding-bottom:50px;
   .questions-btn {
