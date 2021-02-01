@@ -72,10 +72,11 @@ get_header(); ?>
         </div>
         <div class="how-it-works">
         <h1>3 fördelar med Electro Drain:</h1>
-        <img class="" style="background-color:white; max-width: 1900px;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/asset_3D-house_v4.jpg" />  
+        <!-- <img class="" style="background-color:white; max-width: 1900px;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/asset_3D-house_v4.jpg" />   -->
+        <?php echo do_shortcode('[video id=3129]'); ?>
       </div>
       <div class="container three-part" style="text-align:center;">
-        
+     
         <div class="row">
         <div class="col large-4">
           <h3>1. Gräv inte upp trädgården</h3>
