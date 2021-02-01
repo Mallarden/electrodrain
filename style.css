@@ -658,6 +658,10 @@ ul.menu > li + li, .widget > ul > li + li {
 }
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
+  .hero-image {
+    background: url("./img/electro-hero-mobile.jpg") no-repeat center center fixed;
+  }
+
   .how-it-works h1 {
     font-size: 25px;
     padding-bottom: 15px;
