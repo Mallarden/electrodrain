@@ -19,6 +19,7 @@ body {
 .advgb-image-title {
   font-family: 'Titillium Web', sans-serif !important;
   font-weight: 300 !important;
+  width:95%;
 }
 #wrapper, #main {
   background-color:transparent !important;
@@ -153,6 +154,9 @@ header .header-main {
 header .header-wrapper:not(.stuck) .header-main .header-nav {
   margin-top:0;
 }
+.wpcf7-submit {
+  background-color:#EC9C53 !important;
+}
 
 .scroller {
   width: 12px;
@@ -257,10 +261,10 @@ header .header-wrapper:not(.stuck) .header-main .header-nav {
   .intro-emblems {
     margin: 0 auto;
     display: block;
-    max-width: 200px;
+    max-width: 240px;
     margin-bottom: 10px;
     /* width: 100%; */
-    max-height: 140px;
+    max-height: 120px;
   }
   p {
     width:75%;
@@ -304,7 +308,7 @@ button {
 }
 
 .gs_logo_single img {
-  height:75px;
+  height:100px;
 }
 .gs_logo_title {
   display:none;
@@ -663,6 +667,9 @@ background-color: #ff6600;
 
     /* Small Devices, Tablets */
     @media only screen and (max-width : 768px) {
+      .gs_logo_single img {
+        height:75px;
+      }
       .hero-image {
         background: url("./img/electro-hero-mobile.jpg") no-repeat center center fixed;
       }

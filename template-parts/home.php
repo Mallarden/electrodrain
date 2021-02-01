@@ -10,7 +10,7 @@ get_header(); ?>
   </div>
   <div class="hero-text-container">
     <div class="hero-title">
-    <h1>Electro Drain är det nya sätter att dränera i framtiden.  </h1>
+    <h1>ELECTRO DRAIN ÄR DET MODERNA OCH TRYGGA SÄTTET ATT DRÄNERA</h1>
             <h3 class="text-center">━ Ett självklart val.</h3>
             <div class="container pt-3">
               <div class="row">
@@ -43,7 +43,7 @@ get_header(); ?>
               <h1>Säker dränering - med etablerad teknik </h1>
               <h3>Electro Drains lösning för torrläggning av fastighetskällare
                   baseras på en avancerad elektropuls teknik som laddar
-                  fukten i fundamenten och trycker ut den ur byggnationen..</h3>
+                  fukten i fundamenten och trycker ut den ur byggnationen</h3>
             </div>
           </div>
         </div>
@@ -71,13 +71,14 @@ get_header(); ?>
         </div>
         </div>
         <div class="how-it-works" style="max-width: 1900px; margin:-15px auto;">
-        <h1>3 fördelar med Electro Drain:</h1>
+        <h1>Hur fungerar det?</h1>
         <!-- <img class="" style="background-color:white; max-width: 1900px;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/asset_3D-house_v4.jpg" />   -->
         <?php echo do_shortcode('[video id=3129]'); ?>
       </div>
       <div class="container three-part" style="text-align:center;">
-     
+      <h1>3 fördelar med Electro Drain:</h1>
         <div class="row">
+          
         <div class="col large-4">
           <h3>1. Gräv inte upp trädgården</h3>
           <p>Med Electro Drains dränering slipper du gräva upp trädäcket, växthuset, stenläggning och/eller gräsmattan för att dränera</p>
