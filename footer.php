@@ -25,7 +25,7 @@ global $flatsome_opt;
         <li>Adress</li>
         <li>Electro Drain</li>
         <li>Frölunda Smedjegatan 4</li>
-        <li>Göteborg</li>
+        <li>Västra Frölund</li>
         <li>Sverige</li>
       </ul>
     </div>
