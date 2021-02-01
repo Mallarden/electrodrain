@@ -123,7 +123,7 @@ get_header(); ?>
           <div class="left-area">
               <div class="studier-container">
                 <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ChalmersU_black.png" />
-                <h3>Stephan Mangold på Chalmers Industriteknik har gjort en utvärdering och rapport kring våran uttorkningsteknik.</h3>
+                <h3>Stephan Mangold på Chalmers Industriteknik har gjort en utvärdering och rapport kring vår uttorkningsteknik.</h3>
                 <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/Chalmersrapport-Electro-Drain-Mars-20.pdf" target="_blank">
                   <button class="studier-btn" type="button">Läs mer</button>
                 </a>
