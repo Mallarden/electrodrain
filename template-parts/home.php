@@ -70,7 +70,7 @@ get_header(); ?>
           </div>
         </div>
         </div>
-        <div class="how-it-works" style="max-width: 1900px; margin:-30px auto;">
+        <div class="how-it-works" style="max-width: 1900px; margin:-15px auto;">
         <h1>3 fördelar med Electro Drain:</h1>
         <!-- <img class="" style="background-color:white; max-width: 1900px;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/asset_3D-house_v4.jpg" />   -->
         <?php echo do_shortcode('[video id=3129]'); ?>
