@@ -98,12 +98,12 @@ get_header(); ?>
       </div>
       <div class="category-images">
         <div class="left-image">
-        <a href="https://www.electrodrain.se/fastighetsbestand/">
+        <a href="https://www.electrodrain.se/privata-fastigheter/">
           <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/brand_FACKMAN.jpg" />
           </a>
         </div>
         <div class="right-image">
-        <a href="https://www.electrodrain.se/privata-fastigheter/">
+       <a href="https://www.electrodrain.se/fastighetsbestand/">
       <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/vit-parkering.jpg" />
       </a>  
     </div>
