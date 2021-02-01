@@ -25,7 +25,7 @@ global $flatsome_opt;
         <li>Adress</li>
         <li>Electro Drain</li>
         <li>Frölunda Smedjegatan 4</li>
-        <li>Västra Frölund</li>
+        <li>Västra Frölunda</li>
         <li>Sverige</li>
       </ul>
     </div>
@@ -33,8 +33,8 @@ global $flatsome_opt;
     <ul>
         <li>Kontaktinformation</li>
         <li>info@electrodrain.se</li>
-        <li>Jonas: 070-6304030</li>
-        <li>Ulf: 070-5251110</li>
+        <li>Försäljning: 070-6304030</li>
+        <li>Support: 070-5251110</li>
       </ul>
     </div>
     <div class="col small-6 large-3">
