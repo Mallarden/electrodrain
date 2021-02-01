@@ -391,6 +391,10 @@ button:hover {
   display: none;
 }
 
+.plyr__video-wrapper {
+  background-color: white;
+}
+
 #footer {
   padding-top: 15px;
   background-color: #1F1F1F;
