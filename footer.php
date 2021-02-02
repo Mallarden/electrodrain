@@ -83,6 +83,9 @@ global $flatsome_opt;
           <a href="https://www.facebook.com/ElectroDrain" target="_blank">
             <img class="footer-loggo" src="<?php echo get_stylesheet_directory_uri(); ?>/img/fb-white.png" />
           </a>
+          <a href="https://www.linkedin.com/company/electro-drain/about/?viewAsMember=true" target="_blank">
+            <img style="margin-left:10px;" class="footer-loggo" src="<?php echo get_stylesheet_directory_uri(); ?>/img/linkedin.png" />
+          </a>
         </div>
       </div>
       <?php do_action( 'flatsome_absolute_footer_primary' ); ?>
