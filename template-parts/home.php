@@ -133,7 +133,7 @@ get_header(); ?>
               <div class="studier-container">
                 <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/byggforsk-logga1.png" />
                 <h3>Norska Byggforsk har arbetat fram omfattande studie kring
-kopplingen emellan fuktbekämpning och elektrosmos tekniken.</h3>
+kopplingen emellan fuktbekämpning och elektroosmos tekniken.</h3>
                 <a href="http://www.electrodrain.se/wp-content/uploads/2021/01/byggforskrapport_Electro-Drain.pdf" target="_blank">
                   <button class="studier-btn" type="button">Läs mer</button>
                 </a>
