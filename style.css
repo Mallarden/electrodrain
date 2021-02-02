@@ -700,7 +700,7 @@ ul.menu > li + li, .widget > ul > li + li {
   }
 
   .hero-image {
-    background-image: url("./img/electro-hero-mobile.png") no-repeat center center fixed;
+    background-image: url("./img/electro-hero-mobile.png");
   }
 
   .how-it-works h1 {
