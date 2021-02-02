@@ -112,7 +112,9 @@ get_header(); ?>
         <p>
         Electro Drains lösning för torrläggning av källare baserar sig på elektroosmos som är en väl beprövad metod för att driva ut fukt ur betong. Eftersom tekniken verkar i själva betongen är den speciellt effektiv för att motverka vattenintrång orsakad av uppstigande, kapillär, markfukt. Att det är en effektiv metod är omvittnat i tester och forskningsrapporter samt, inte minst, i alla de över 3.000 installationer som är gjorda bara i Sverige. Varje installation sker på ett fackmannamässigt sätt med garanterat resultat inom 90 dagar och 10 års funktionsgaranti.
         </p>
+        <a href="https://www.electrodrain.se/fragor-svar/">
         <button class="questions-btn" type="button">Vanliga frågor och svar</button>
+        </a>
       </div>
       <div class="studier">
         <h1>Studier</h1>
