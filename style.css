@@ -701,7 +701,6 @@ ul.menu > li + li, .widget > ul > li + li {
 
   .hero-image {
     background: url("./img/electro-hero-mobile.png") no-repeat center center fixed;
-    background-color: #222;
   }
 
   .how-it-works h1 {
