@@ -77,7 +77,7 @@ get_header(); ?>
           
         <div class="col large-4">
           <h3>1. Gräv inte upp trädgården</h3>
-          <p>Med Electro Drains dränering slipper du gräva upp trädäcket, växthuset, stenläggning och/eller gräsmattan för att dränera</p>
+          <p>Med Electro Drains dränering slipper du gräva upp trädäcket, växthuset, stenläggning och/eller gräsmattan.</p>
         </div>
         <div class="col large-4">
           <h3>2. Enkelt, tryggt och snabbt</h3>
