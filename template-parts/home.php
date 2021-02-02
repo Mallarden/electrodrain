@@ -11,7 +11,7 @@ get_header(); ?>
   <div class="hero-text-container">
     <div class="hero-title">
     <h1>Electro Drain är det moderna och trygga sättet att dränera</h1>
-            <h3 class="text-center">━ Ett självklart val.</h3>
+            <h3 class="text-center">━ Ett självklart val</h3>
             <div class="container pt-3">
               <div class="row">
               <div class="col small-6">
@@ -52,18 +52,14 @@ get_header(); ?>
         <div class="row">
           <div class="col small-12 large-6">
           <img class="intro-emblems" src="<?php echo get_stylesheet_directory_uri(); ?>/img/produktgaranti.png" />
-          <p>Vi har stresstestet system för 30 år
-            ock lämnar därför en 10 års garanti på 
-            all teknik & åtgärder.</p>
+          <p>Vi har stresstestat systemet för 30 år och lämnar därför en 10 års garanti på all teknik.</p>
             <a href="https://www.electrodrain.se/trygghet/">
             <button class="emblem-btn" type="button">Läs mer</button>
             </a>
           </div>
           <div class="col small-12 large-6">
           <img class="intro-emblems" style="background-color:white;" src="<?php echo get_stylesheet_directory_uri(); ?>/img/90dagar-garanti.png" />  
-          <p>Vi lämnar en 90 dagars garanti 
-            på att fukten minskat med minst 30% 
-            Annars har ni rätt att få pengarna tillbaka.</p>
+          <p>Vi lämnar en 90 dagars garanti på att vi nått utlovat resultat annars har ni rätt att få pengarna tillbaka.</p>
             <a href="https://www.electrodrain.se/trygghet/">
             <button class="emblem-btn" type="button">Läs mer</button>
             </a>
@@ -85,7 +81,7 @@ get_header(); ?>
         </div>
         <div class="col large-4">
           <h3>2. Enkelt, tryggt och snabbt</h3>
-          <p>Normalt tar det (1) arbetsdag att installera Electro Drains system, sedan är det bara att vänta.</p>
+          <p>Normalt tar det en arbetsdag att installera Electro Drains system, sedan är det bara att vänta.</p>
         </div>
         <div class="col large-4">
           <h3>3. Stoppar fukten under huset</h3>

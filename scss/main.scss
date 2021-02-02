@@ -120,6 +120,15 @@ body {
         padding:15px 20px;
         color:white;
       }
+ 
+    }
+    .button-2 {
+      border: 3px solid white;
+      margin-bottom: 0;
+      border-radius: 4px;
+      /* padding: 9px; */
+      margin: 0;
+      padding: 0px 25px;
     }
   }
   h3 {
@@ -290,6 +299,15 @@ button {
     display:block;
     border-radius: 4px;
   }
+  p {
+    line-height: 30px;
+  }
+}
+.plyr--full-ui.plyr--video .plyr__control--overlaid {
+  background:white;
+}
+.plyr__control--overlaid svg {
+  color:black;
 }
 .nav>li {
   margin:0 15px;
@@ -750,6 +768,7 @@ background-color: #ff6600;
         .hero-title .button-1 {
           font-size:13px;
         }
+    
         .hero-title .container {
           width:90%;
         }

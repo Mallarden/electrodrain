@@ -147,6 +147,14 @@ body {
   padding: 15px 20px;
   color: white;
 }
+.hero-text-container .hero-title .button-2 {
+  border: 3px solid white;
+  margin-bottom: 0;
+  border-radius: 4px;
+  /* padding: 9px; */
+  margin: 0;
+  padding: 0px 25px;
+}
 .hero-text-container h3 {
   text-align: left;
   width: 60%;
@@ -312,6 +320,17 @@ button:hover {
   margin-top: 15px;
   display: block;
   border-radius: 4px;
+}
+.emblem-container p {
+  line-height: 30px;
+}
+
+.plyr--full-ui.plyr--video .plyr__control--overlaid {
+  background: white;
+}
+
+.plyr__control--overlaid svg {
+  color: black;
 }
 
 .nav > li {
