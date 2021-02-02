@@ -189,7 +189,7 @@ header .header-wrapper:not(.stuck) .header-main .header-nav {
 }
 
 .wpcf7-submit {
-  background-color: #EC9C53 !important;
+  background-color: #f99800 !important;
 }
 
 .scroller {
@@ -598,7 +598,7 @@ ul.menu > li + li, .widget > ul > li + li {
   margin: 0 auto;
 }
 .grey-text .questions-btn {
-  background-color: #EC9C53;
+  background-color: #f99800;
   margin: 0 auto;
   display: block;
   margin-top: 50px;
