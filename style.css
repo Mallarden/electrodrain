@@ -67,7 +67,7 @@ body {
 }
 
 .hero-image {
-  background: url("./img/hero-ELECTRO-DRAIN_offices+machinesold.jpg") no-repeat center center fixed;
+  background-image: url("./img/hero-ELECTRO-DRAIN_offices+machinesold.jpg") no-repeat center center fixed;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -700,7 +700,7 @@ ul.menu > li + li, .widget > ul > li + li {
   }
 
   .hero-image {
-    background: url("./img/electro-hero-mobile.png") no-repeat center center fixed;
+    background-image: url("./img/electro-hero-mobile.png") no-repeat center center fixed;
   }
 
   .how-it-works h1 {
