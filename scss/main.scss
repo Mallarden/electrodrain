@@ -362,10 +362,9 @@ button {
   }
 }
 .copyright-footer {
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .footer-info {
-  display: flex;
   justify-content: center;
   align-items: center;
   p {
@@ -690,7 +689,7 @@ background-color: #ff6600;
         height:75px;
       }
       .hero-image {
-        background-image: url("./img/electro-hero-mobile.png");
+        background-image: url("./img/electro-hero-mobile.jpg");
         // background-color:#222;
       }
       .how-it-works {

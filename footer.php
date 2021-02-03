@@ -74,10 +74,12 @@ global $flatsome_opt;
         ?>
       <?php endif; ?>
       <div class="copyright-footer" style="display:flex;">
-        <div class=""><img class="footer-img" src="<?php echo get_stylesheet_directory_uri(); ?>/img/electro-white.png" /></div>
         <div class="footer-info">
           <!-- <?php echo do_shortcode( get_theme_mod( 'footer_left_text', 'Copyright [ux_current_year]' ) ); ?> -->
           <p>@ 2021 Electro Drain</p>
+          <a href="https://www.grandnewstudios.com/">
+            Designed på GrandNew Studios
+          </a>
         </div>
         <div class="footer-logo-container">
           <a href="https://www.facebook.com/ElectroDrain" target="_blank">
