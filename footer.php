@@ -20,7 +20,7 @@ global $flatsome_opt;
 </p>
     <?php echo do_shortcode("[contact-form-7 id='8' title='Kontaktformulär']"); ?>
   <div class="row" style="text-align:center; margin-top:50px;">
-    <div class="col small-6 large-3">
+    <div style="padding: 0 5px 30px;" class="col small-6 large-3">
       <ul>
         <li>Adress</li>
         <li>Electro Drain</li>
@@ -29,7 +29,7 @@ global $flatsome_opt;
         <li>Sverige</li>
       </ul>
     </div>
-    <div class="col small-6 large-3">
+    <div style="padding: 0 5px 30px;" class="col small-6 large-3">
     <ul>
         <li>Kontaktinformation</li>
         <li>info@electrodrain.se</li>

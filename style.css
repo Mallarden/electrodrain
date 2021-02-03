@@ -638,6 +638,7 @@ ul.menu > li + li, .widget > ul > li + li {
   background-color: #946AED;
   color: white;
   border-radius: 4px;
+  margin: 0;
 }
 .studier .studier-grey-area .studier-grey-area-wrapper .studier-container {
   width: 90%;
@@ -750,6 +751,7 @@ ul.menu > li + li, .widget > ul > li + li {
   .footer-img {
     width: 100px;
     margin-top: 5px;
+    display: none;
   }
 
   .first-section .intro-emblems {
