@@ -78,7 +78,7 @@ global $flatsome_opt;
           <!-- <?php echo do_shortcode( get_theme_mod( 'footer_left_text', 'Copyright [ux_current_year]' ) ); ?> -->
           <p>@ 2021 Electro Drain</p>
           <a href="https://www.grandnewstudios.com/">
-            Designed på GrandNew Studios
+            Designad av GrandNew Studios
           </a>
         </div>
         <div class="footer-logo-container">

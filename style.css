@@ -412,6 +412,7 @@ button:hover {
   align-items: center;
 }
 .footer-logo-container .footer-loggo {
+  min-width: 30px;
   width: 30px;
 }
 

@@ -380,7 +380,8 @@ button {
   justify-content: center;
   align-items: center;
   .footer-loggo {
-    width:30px;
+    min-width: 30px;
+    width: 30px;
   }
 }
 div.wpcf7 {
